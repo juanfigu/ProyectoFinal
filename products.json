@@ -1,0 +1,32 @@
+{
+"items": [
+       {
+           "sys": {"id":1},
+           "fields":{
+                "name":"Chiller 60KVA",
+                "price":500,
+                "img": {"fields": {"file": { "url": "img/chiller60.jpg"}}}}
+        },
+        {
+            "sys": {"id":2},
+            "fields":{
+                "name":"Chiller 125KVA",
+                "price":750,
+                "img": {"fields": {"file": { "url": "img/chiller125.jpg"}}}}
+         },
+         {
+            "sys": {"id":3},
+            "fields":{
+                "name":"Generador 60KVA",
+                "price":750,
+                "img": {"fields": {"file": { "url": "img/generador60.jpg"}}}}
+         },
+         {
+            "sys": {"id":4},
+            "fields":{
+                "name":"Generador 125KVA",
+                "price":1000,
+                "img": {"fields": {"file": { "url": "img/generador125.jpg"}}}}
+        }
+        ]
+}
